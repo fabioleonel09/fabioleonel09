@@ -16,5 +16,5 @@
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img heigth="260" width="340" align="right" src="https://pa1.narvii.com/7223/3a44fbeab614908651c048ecad792e6b7f715797r1-712-350_hq.gif" />
+  <img heigth="240" width="320" align="right" src="https://pa1.narvii.com/7223/3a44fbeab614908651c048ecad792e6b7f715797r1-712-350_hq.gif" />
 </div>
