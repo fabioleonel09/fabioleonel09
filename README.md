@@ -1,8 +1,8 @@
 ### Olá, sou o Fábio Leonel 👋
 
 - 🔭 Atualmente trabalho com programação: C#, ReactJs, React Native, Ruby, Ruby on Rails.
-- 🌱 Faço faculdade de Ciência da Computação. Sou formado em Análise e Desenvol. de Sistemas.
-- 🎧 Ah, também sou fonoaudiólogo, pós-graduado e especialista em Audiologia!
+- 🌱 Faço faculdade de Ciência da Computação. Sou graduado em Análise e Desenvol. de Sistemas, como tecnólogo.
+- 🎧 Ah, também sou graduado em Fonoaudiologia, pós-graduado e especialista em Audiologia!
 - 😄 Pronouns: Ele / dele.
 ##
 <div style=“display: inline_block”><br>
