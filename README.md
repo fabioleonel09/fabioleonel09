@@ -18,3 +18,7 @@
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img heigth="240" width="320" align="right" src="https://pa1.narvii.com/7223/3a44fbeab614908651c048ecad792e6b7f715797r1-712-350_hq.gif" />
 </div>
+<div style=“display: inline_block”><br>
+  <img heigth="50" width="200" align="center" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
+  <img heigth="50" width="200" align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
