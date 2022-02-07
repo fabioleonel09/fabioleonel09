@@ -1,6 +1,6 @@
 ### Olá, sou o Fábio Leonel 👋
 
-- 🔭 Atualmente trabalho com programação: C#; sou aprendiz em ReactJs, React Native, Ruby, Ruby on Rails.
+- 🔭 Atualmente trabalho com programação em C#; sou aprendiz em ReactJs, React Native, Ruby, Ruby on Rails.
 - 💻 Sou pós-graduando em Engenharia de Software... gosto muito de estudar esta pós!
 - 🌱 Faço faculdade de Ciência da Computação. Sou graduado em Análise e Desenvol. de Sistemas, como tecnólogo.
 - 🎧 Ah, também sou graduado em Fonoaudiologia, pós-graduado e especialista em Audiologia!
