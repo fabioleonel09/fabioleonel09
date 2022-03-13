@@ -24,10 +24,10 @@
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" />
-  <img heigth="240" width="320" align="right" src="https://pa1.narvii.com/7223/3a44fbeab614908651c048ecad792e6b7f715797r1-712-350_hq.gif" />
+  <img heigth="60" width="80" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" /> 
 </div>
 <div style=“display: inline_block”><br>
   <img heigth="50" width="200" align="center" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
   <img heigth="100" width="200" align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img heigth="240" width="320" align="right" src="https://pa1.narvii.com/7223/3a44fbeab614908651c048ecad792e6b7f715797r1-712-350_hq.gif" />
 </div>
