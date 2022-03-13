@@ -7,9 +7,9 @@
 - 😄 Pronouns: Ele / dele.
 ##
 <div style=“display: inline_block”><br>
-	<img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
+  <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
