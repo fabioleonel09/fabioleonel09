@@ -1,8 +1,8 @@
 ### Olá, sou o Fábio Leonel 👋
 
-- 🔭 Atualmente trabalho com programação em C#; sou aprendiz em ReactJs, React Native, Swift...
-- 💻 Sou pós-graduando em Engenharia de Software... gosto muito de estudar esta pós!
-- 🌱 Faço faculdade de Ciência da Computação. Sou graduado em Análise e Desenvol. de Sistemas, como tecnólogo.
+- 🔭 Atualmente trabalho com programação em C# (windows forms e web forms); sou aprendiz em ReactJs, React Native, Angular...
+- 💻 Sou pós-graduando em Data Science e Informática em Saúde... gosto muito de estudar esta pós!
+- 🌱 Sou graduado em Análise e Desenvol. de Sistemas, como tecnólogo.
 - 🎧 Ah, também sou graduado em Fonoaudiologia, pós-graduado e especialista em Audiologia!
 - 😄 Pronouns: Ele / dele.
 ##
@@ -10,7 +10,6 @@
   <img heigth="60" width="80" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img heigth="60" width="80" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -20,7 +19,6 @@
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
-  <img heigth="60" width="80" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
