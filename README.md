@@ -20,7 +20,7 @@
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img heigth="30" width="40" align="center" src="https://icons8.com.br/icon/tGW1lN11LBlx/corel-draw" />
+  <img heigth="30" width="40" align="center" src="https://icons8.com.br/icon/tGW1lN11LBlx/corel-draw.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img heigth="60" width="80" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" /> 
 </div>
