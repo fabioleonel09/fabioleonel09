@@ -1,6 +1,6 @@
 ### Olá, sou o Fábio Leonel 👋
 
-- 🔭 Atualmente trabalho com programação em C# (windows forms e web forms); sou aprendiz em ReactJs, React Native, Angular...
+- 🔭 Atualmente trabalho com programação em C# (windows forms e web forms); sou aprendiz em Angular...
 - 💻 Sou pós-graduando em Data Science e Informática em Saúde... gosto muito de estudar esta pós!
 - 🌱 Sou graduado em Análise e Desenvol. de Sistemas, como tecnólogo.
 - 🎧 Ah, também sou graduado em Fonoaudiologia, pós-graduado e especialista em Audiologia!
