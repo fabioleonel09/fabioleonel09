@@ -17,7 +17,7 @@
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+  <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img heigth="30" width="40" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/LOGO-CORELDRAW-GRAPHICS-SUITE.svg/1200px-LOGO-CORELDRAW-GRAPHICS-SUITE.svg.png" />
   <img heigth="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
@@ -26,6 +26,6 @@
 </div>
 <div style=“display: inline_block”><br>
   <img heigth="30" width="200" align="center" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
-  <img heigth="60" width="80" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+  <img heigth="30" width="50" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
   <img heigth="240" width="320" align="right" src="https://pa1.narvii.com/7223/3a44fbeab614908651c048ecad792e6b7f715797r1-712-350_hq.gif" />
 </div>
